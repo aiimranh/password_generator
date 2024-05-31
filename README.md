@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-projects" width="40" height="40"/> </a>Password Generator</h1>
+<h1 align="center"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-projects" width="40" height="40"/> </a>Advanced Custom Password Generator Tool</h1>
 
 # In the <i>Password Generator</i> contains some features.
 
